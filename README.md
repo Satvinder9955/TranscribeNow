@@ -8,7 +8,7 @@ This repository contains the source code for a Single-Page Audio Transcription A
   ## Technologies
 ### Backend
 - Spring Boot: Backend API for processing audio and interacting with Azure OpenAI.
-- Azure OpenAI: Provides the transcription service.
+-  OpenAI: Provides the transcription service.
 ### Frontend
 - Vite: Fast frontend development environment.
 - React: UI framework for creating a responsive and simple user interface.
