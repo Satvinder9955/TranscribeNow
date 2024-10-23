@@ -28,7 +28,7 @@ cd TrancribeNow-backend
 ```
 Update the application.properties file with your OpenAI API key:
 ```
-azure.openai.api.key=your_azure_openai_api_key
+.openai.api.key=your_openai_api_key
 ```
 Run the project to check if the key works
 
